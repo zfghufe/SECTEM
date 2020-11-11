@@ -521,4 +521,4 @@ message.channel.send(bot);
 });
 
 
-client.login("NzczOTMwMzg0NDc5NjE3MDQ2.X6QY1g.2UqjvbBxSzicLmDrznOQpMDJfqQ")
+client.login("NzczOTMwMzg0NDc5NjE3MDQ2.X6QY1g.osxLdTvjOBRM813N9bc5Eb1nEsw")
